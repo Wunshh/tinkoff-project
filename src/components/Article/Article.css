@@ -1,0 +1,40 @@
+.article {
+    width: 63%;
+    margin: 0 0 48px;
+}
+
+.article__title {
+    font-family: "Inter", "Arial", sans-serif;
+    color: #000000;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 500;
+    margin: 0 0 24px;
+}
+
+.article__subtitle {
+    font-family: "Inter", "Arial", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.8);
+    margin: 0 0 48px;
+}
+
+.article__command {
+    margin: 0 0 7px;
+    font-family: "Inter", "Arial", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.article__info {
+    margin: 0;
+    font-family: "Inter", "Arial", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.8);
+}

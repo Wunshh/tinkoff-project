@@ -1,0 +1,40 @@
+.result-card__title{
+    margin: 0;
+    font-family: "Inter", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.result-card__img {
+    margin-bottom: 12px;
+}
+
+.result-card__subtitle {
+    margin: 0 0 12px;
+    font-family: "Inter", "Arial", sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.result-card__container {
+    margin: 50px 0 16px;
+
+}
+
+.result-card__link {
+    text-decoration: none;
+    text-align: center;
+    font-family: "Inter", "Arial", sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+    padding: 16px 32px;
+    background-color: #FFDD2D;
+    border-radius: 4px;
+}
+
+.result-card__link:hover {
+    opacity: 0.7;
+}

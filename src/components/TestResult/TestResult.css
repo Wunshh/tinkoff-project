@@ -1,0 +1,13 @@
+.result__container {
+    margin-bottom: 49px;
+}
+
+.result__card {
+    width: 100%;
+    max-width: 82%;
+    margin-left: 33%;
+}
+
+.card__link {
+    width: 54px;
+}

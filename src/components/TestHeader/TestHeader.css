@@ -1,0 +1,29 @@
+.test-header {
+    margin-bottom: 12px;
+}
+
+.test__data {
+    display: flex;
+    align-items: center
+}
+
+.test__img {
+    margin-right: 4px;
+}
+
+.test__subtitle {
+    margin: 0;
+    font-family: "Inter", "Arial", sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.54);
+    font-weight: 400;
+}
+
+.test__subtitle:nth-of-type(1) {
+    margin-right: 24px;
+}
+
+.test-header__img {
+    width: 60%;
+}

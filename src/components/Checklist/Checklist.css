@@ -1,0 +1,45 @@
+.checklist__cards {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 719px;
+    justify-content: space-between;
+    margin: 0 0 48px;
+}
+
+.checklist__card {
+    padding: 16px;
+    background-color: #F6F7F8;
+    border-radius: 8px;
+    box-sizing: border-box;
+    width: 335px;
+}
+
+.checklist__subtitle {
+    font-family: "Inter", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #333333;
+    margin: 0;
+}
+
+.checklist__list {
+    list-style-position: inside;
+    list-style-image: url("../../images/ulDot.svg");
+    padding: 0;
+    margin: 0;
+}
+
+.checklist__item::before {
+    content: "";
+    margin-right: 9px;
+}
+
+.checklist__item {
+    font-family: "Inter", "Arial", sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    margin: 12px 0 0;
+}

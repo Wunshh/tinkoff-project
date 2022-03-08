@@ -1,0 +1,36 @@
+.knowledge {
+    margin: 0 0 48px;
+}
+
+.knowledge__grid {
+    display: grid;
+    grid-template-columns: 4% 80%;
+    column-gap: 32px;
+    align-items: center;
+    grid-template-rows: auto;
+    row-gap: 24px;
+}
+
+.knowledge__img {
+    background-color: #ECF1F7;
+    padding: 12px;
+    border-radius: 50%;
+}
+
+.knowledge__advice-title {
+    font-family: "Inter", "Arial", sans-serif;
+    margin: 0;
+    font-size: 15px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: 400;
+}
+
+.knowledge__subtitle {
+    font-family: "Inter", "Arial", sans-serif;
+    margin: 0;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.54);
+}
