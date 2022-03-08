@@ -1,4 +1,4 @@
-# Готовый проект доступен по ссылке: https://api.mydiploma.nomoredomains.rocks/
+# Готовый проект доступен по ссылке: https://api.mydiploma.nomoredomains.rocks
 
 ## Getting Started with Create React App
 
